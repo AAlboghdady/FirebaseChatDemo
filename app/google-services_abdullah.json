@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "850945482125",
+    "firebase_url": "https://tps-chatting-demo.firebaseio.com",
+    "project_id": "tps-chatting-demo",
+    "storage_bucket": "tps-chatting-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850945482125:android:5055409088c827f1",
+        "android_client_info": {
+          "package_name": "com.abdu.firebasechatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850945482125-mkljt4a2gpbmklndvacvf5frk4843rrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdu.firebasechatdemo",
+            "certificate_hash": "4168c8b3ca697ecc0d46f847c1f1779ee526e097"
+          }
+        },
+        {
+          "client_id": "850945482125-r5qmkhcns4nhk8haj6lleeoe2b74l3ai.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "850945482125-r5qmkhcns4nhk8haj6lleeoe2b74l3ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-UNDPI_OVFT8E8dgP3U1ST_V016-qq1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850945482125-r5qmkhcns4nhk8haj6lleeoe2b74l3ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
